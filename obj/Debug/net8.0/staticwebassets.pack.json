@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\s27180\\RiderProjects\\test27180\\test27180\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\test27180.bundle.scp.css",
+      "PackagePath": "staticwebassets\\test27180.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\s27180\\RiderProjects\\test27180\\test27180\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\s27180\\RiderProjects\\test27180\\test27180\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\s27180\\RiderProjects\\test27180\\test27180\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\s27180\\RiderProjects\\test27180\\test27180\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.test27180.props",
+      "PackagePath": "build\\test27180.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.test27180.props",
+      "PackagePath": "buildMultiTargeting\\test27180.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.test27180.props",
+      "PackagePath": "buildTransitive\\test27180.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.test27180.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
